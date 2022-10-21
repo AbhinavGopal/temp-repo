@@ -1,1 +1,1 @@
-link: https://spinningup.openai.com/en/latest/user/installation.html#installing-openmpi
+link: https://github.com/huggingface/diffusers/pull/54
