@@ -1,1 +1,1 @@
-link: https://github.com/huggingface/diffusers/pull/54
+link: https://github.com/openai/mujoco-py#obtaining-the-binaries-and-license-key)
